@@ -1,0 +1,103 @@
+cv:
+  name: "SHAIK ABDUL KALAM"
+  title: "Full-Custom Analog Layout Engineer"
+  email: "kalam.ecetwo47@gmail.com"
+  phone: "+91-9398549034"
+  website: "https://www.linkedin.com/in/kalamvlsi"
+
+  summary: >
+    Full-Custom Analog Layout Engineer with hands-on experience in standard cell layout
+    (90nm/28nm), operational amplifiers, high-speed SerDes drivers, and complete 6T SRAM
+    peripheral blocks. Strong focus on diffusion engineering, matching techniques,
+    parasitic-aware routing, EM/IR robustness, latch-up prevention, and layout-driven
+    silicon effects.
+
+  skills:
+    - name: "Layout Domains"
+      items:
+        - "Full-Custom Analog Layout"
+        - "Standard Cell Layout"
+        - "Memory Layout"
+        - "High-Speed IO"
+
+    - name: "Technologies"
+      items:
+        - "90nm CMOS"
+        - "28nm CMOS"
+
+    - name: "Core Concepts"
+      items:
+        - "Diffusion Optimization"
+        - "Dummy Diffusion"
+        - "STI Stress"
+        - "LOD"
+        - "WPE"
+        - "Matching Techniques"
+        - "EM/IR Awareness"
+        - "Latch-up Prevention"
+
+    - name: "Verification"
+      items:
+        - "DRC"
+        - "LVS"
+        - "Parasitic-Aware Layout"
+
+    - name: "Tools"
+      items:
+        - "Synopsys Custom Compiler"
+        - "Cadence Virtuoso"
+
+  experience:
+    - company: "Standard Cell Layout Projects"
+      role: "Analog Layout Engineer"
+      details:
+        - "Designed multi-drive strength standard cells with strict track-based and cell-height compliance."
+        - "Optimized shared diffusion and diffusion breaks to balance area, parasitics, and device matching."
+        - "Applied STI stress mitigation, LOD control, and dummy poly/diffusion insertion."
+        - "Ensured abutment-safe layouts with EM/IR-safe power rails and latch-up prevention."
+        - "Achieved DRC/LVS-clean sign-off."
+
+    - company: "Operational Amplifier Layout"
+      role: "Analog Layout Engineer"
+      details:
+        - "Implemented common-centroid and interdigitated layouts for mismatch-critical devices."
+        - "Maintained symmetry-driven placement, orientation consistency, and gradient cancellation."
+        - "Balanced parasitics and shielded noise-sensitive analog nets."
+        - "Designed guard rings and isolation structures with STI and WPE awareness."
+
+    - company: "SerDes Driver / Pre-Driver Layout"
+      role: "Analog Layout Engineer"
+      details:
+        - "Designed high-speed SerDes pre-driver and driver layouts."
+        - "Performed matched path-length routing and low-skew differential routing."
+        - "Controlled parasitic capacitance, edge rate, and crosstalk."
+        - "Built robust power mesh with EM/IR-aware metal planning."
+
+    - company: "6T SRAM Peripheral Layout"
+      role: "Analog Layout Engineer"
+      details:
+        - "Completed layout for precharge, sense amplifier, full decoder, control, scan, and DIN/DOUT blocks."
+        - "Balanced BL/BLB routing and optimized bitline capacitance and wordline RC delay."
+        - "Applied offset-critical layout techniques in sense amplifier design."
+        - "Ensured latch-up safe memory layout and read/write margin robustness."
+
+  education:
+    - degree: "Bachelor of Technology (B.Tech)"
+      field: "Electronics and Communication Engineering"
+      institution: "Rajeev Gandhi Memorial College of Engineering and Technology"
+      year: "2025"
+      gpa: "7.3"
+
+  training:
+    - role: "Analog Layout Trainee"
+      organization: "RV Skills, Bengaluru"
+      duration: "6 Months"
+      tools:
+        - "Synopsys Custom Compiler"
+        - "Cadence Virtuoso"
+
+  certifications:
+    - "NPTEL – Internet of Things"
+    - "NPTEL – Cloud Computing"
+    - "Cisco Networking"
+    - "Palo Alto Cybersecurity"
